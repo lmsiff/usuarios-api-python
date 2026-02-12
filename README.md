@@ -16,6 +16,11 @@ O foco principal é aplicar:
 
 <br>
 
+## 📝 Diagrama de Classes 
+<img src="./github/uml.png" width="50%"/>
+
+<br>
+
 ## 🛠️ Tecnologias
 
 ### Backend
@@ -100,10 +105,11 @@ http://localhost:3000/api/users
 ```
 <br>
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 - Cadastro de usuários
 - Listagem de usuários
 - Persistência de dados com SQLite
 - API orientada a objetos
+
 - Integração frontend + backend
